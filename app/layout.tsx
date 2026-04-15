@@ -6,7 +6,7 @@ import './globals.css'
 const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://leidersamudio.dev'
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://leider-samudio-mi-portfolio.vercel.app"
 
 export const metadata: Metadata = {
   title: {
