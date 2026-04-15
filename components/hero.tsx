@@ -200,7 +200,7 @@ export function Hero() {
                 transition={{ delay: 0.2 }}
               >
                 <Zap className="h-4 w-4" />
-                Disponible para proyectos
+                Disponible para oportunidades laborales
               </motion.div>
 
               {/* Name */}
