@@ -35,7 +35,7 @@ const projects = [
       "Score de Lighthouse 95+",
       "Diseño totalmente responsive",
     ],
-    github: "#",
+    github: "https://github.com/leidersamudiodev/FastAPI-K8s-App.git",
     demo: "#",
     category: "Landing Page",
   },
