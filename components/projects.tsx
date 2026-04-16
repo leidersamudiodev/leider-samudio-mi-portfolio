@@ -51,8 +51,8 @@ const projects = [
       "Sincronización en la nube",
       "Modo oscuro y personalización",
     ],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/leidersamudiodev/App-de-Gestion-de-Tareas",
+    demo: "https://taskflow-gestion.vercel.app",
     category: "Productivity",
   },
 ]
