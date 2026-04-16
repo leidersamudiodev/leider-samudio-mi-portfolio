@@ -19,8 +19,8 @@ const projects = [
       "Dashboard con métricas en tiempo real",
       "Interfaz responsive y accesible",
     ],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/leidersamudiodev/ecommerce-dashboard",
+    demo: "https://shopadmin-dashboard.vercel.app",
     category: "Web App",
   },
   {
