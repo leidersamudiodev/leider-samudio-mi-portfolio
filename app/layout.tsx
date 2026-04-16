@@ -11,7 +11,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://leider-samudio-mi-p
 export const metadata: Metadata = {
   title: {
     default: 'Leider Jose Samudio Arrieta | Front-End Developer',
-    template: '%s | Leider Samudio - Portfolio',
+    template: '%s | Leider Jose Samudio Arrieta',
   },
   description: 'Portafolio profesional de Leider Jose Samudio Arrieta, desarrollador Front-End y estudiante de Ingenieria de Sistemas en la Corporacion Universitaria Antonio Jose de Sucre (UAJS). Especializado en React, JavaScript, TypeScript, Next.js y diseno UI/UX. Sincelejo, Colombia.',
   keywords: [
